@@ -1,0 +1,40 @@
+{
+  "name": "@anthropic-ai/claw-framework",
+  "version": "1.0.0",
+  "description": "Constitutional AI Governance Framework — Asimov's cLaws with Ed25519 cryptographic attestation for multi-agent systems",
+  "author": "FutureSpeak.AI",
+  "license": "MIT",
+  "homepage": "https://github.com/FutureSpeakAI/claw-framework",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FutureSpeakAI/claw-framework.git"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ai-safety",
+    "constitutional-ai",
+    "asimov-laws",
+    "cryptographic-attestation",
+    "ed25519",
+    "multi-agent",
+    "governance",
+    "trust",
+    "claw"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0",
+    "vitest": "^4.0.18"
+  }
+}
