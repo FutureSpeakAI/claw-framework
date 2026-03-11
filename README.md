@@ -395,10 +395,10 @@ The name is a portmanteau: **c**ompiled + **Law**. The laws are compiled into th
 
 ## Part of the Agent Friday Ecosystem
 
-Extracted from [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday) — an open-source AGI operating system built by [FutureSpeak.AI](https://github.com/FutureSpeakAI). Designed to be used standalone in any multi-agent TypeScript/Node.js system.
+Extracted from [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday) — the world's most trustworthy AI assistant, built by [FutureSpeak.AI](https://github.com/FutureSpeakAI). Designed to be used standalone in any multi-agent TypeScript/Node.js system.
 
 **Related projects:**
-- [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday) — The AGI OS where cLaws were born
+- [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday) — The AI assistant where cLaws were born
 - [trust-graph-engine](https://github.com/FutureSpeakAI/trust-graph-engine) — Multi-dimensional trust scoring with hermeneutic re-evaluation
 - [agent-integrity](https://github.com/FutureSpeakAI/agent-integrity) — HMAC-signed identity protection
 - [sovereign-vault](https://github.com/FutureSpeakAI/sovereign-vault) — Passphrase-only at-rest encryption with SecureBuffer
