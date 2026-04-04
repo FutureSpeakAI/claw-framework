@@ -1,5 +1,5 @@
 {
-  "name": "@anthropic-ai/claw-framework",
+  "name": "@futurespeak-ai/claw-framework",
   "version": "2.0.0",
   "description": "Constitutional AI Governance Framework — Asimov's cLaws with HMAC-SHA256 integrity verification, memory watchdog, safe mode, and Ed25519 cross-agent attestation",
   "author": "FutureSpeak.AI",
